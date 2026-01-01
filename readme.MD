@@ -1,4 +1,3 @@
-````md
 # png-to-terminal
 
 Render PNG images directly in the terminal using 24-bit TrueColor.
