@@ -9,13 +9,7 @@ It is **not ASCII art**.
 
 ## Requirements
 
-- A terminal with TrueColor (24-bit) support  
-  - Windows Terminal  
-  - WezTerm  
-  - Kitty  
-  - Alacritty  
-
-> Classic PowerShell console is **not supported**.
+- A terminal with TrueColor (24-bit) support.
 
 ---
 
