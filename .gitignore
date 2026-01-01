@@ -1,0 +1,13 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Cargo
+Cargo.lock
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
